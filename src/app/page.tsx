@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center mt-16">
       <Button>Send</Button>
+      <Button>Send</Button>
     </div>
   );
 }
